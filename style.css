@@ -272,7 +272,7 @@ h4{text-align:center;margin:30px 0;color:#444}
 .main-timeline6 .timeline:nth-child(4n) .content-inner:after,.main-timeline6 .timeline:nth-child(4n) .content-inner:before{border-left-color:#92070e}
 }
 
-/******************* Timeline Demo - 7 *****************/
+/******************* Timeline Demo - 6B *****************/
 .main-timeline7{overflow:hidden;position:relative}
 .main-timeline7 .timeline{width:50%;float:left;z-index:1;position:relative}
 .main-timeline7 .timeline:after,.main-timeline7 .timeline:before{content:"";display:block;clear:both}
