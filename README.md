@@ -1,4 +1,4 @@
-<h3>This Code Perview</h3>
+<h2>Timeline-style Layout Perview</h2>
 
 <br>
 
@@ -11,3 +11,8 @@
 <br>
 
 <img src="img/preview/Time-Line Code Preview (3).png" style="border-radius: 8px;"  alt="time-line-web">
+
+<br>
+
+<img src="img/preview/Time-Line Code Preview (4).png" style="border-radius: 8px;"  alt="time-line-web">
+
