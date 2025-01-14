@@ -1,4 +1,4 @@
-<h2>Timeline-style Layout Perview</h2>
+<h2>Timeline-Style Layout Perview</h2>
 
 <br>
 
